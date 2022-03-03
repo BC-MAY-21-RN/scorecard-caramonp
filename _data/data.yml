@@ -13,16 +13,9 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: caroramonp@gmail.com
-  phone: 
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  linkedin: https://www.linkedin.com/in/carolina-ram%C3%B3n-palacio-5138681b8/
+  github: https://github.com/caramonp
+  twitter: https://twitter.com/CarolinaRP1
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -40,74 +33,48 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Self learning
+      link: # dejar en blanco
+
+    - item: Problem Solving
+    link: # dejar en blanco
+
+    - item: Emotional intelligence
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+     I am passionate about science and technology, I love learning new things every day and I would like to think that at some point I could inspire many girls to be part of the tech world and science, for now I focus on learning and be focused on designing modularized solutions thinking about as many details as possible to implement them, trying to have as little technical debt as possible.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software foundations
+    university: Holberton School
+    time: 2020 February - current studen spezialitation as web developer
     details: |
+     Project-Based Learning aimed to train Developers with greattechnical skills as well as soft skills. Aspart of the training, students develop all the mindset to succeed in remote teams.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
+      - I make projects in C, python, Javascript lenguages
+      - I learn to use MySQL and DataBase NoSQL as Firebase.
+      - React for the Frontend
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
 
   - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+    university: ITM University- Medellín Colombia
+    time: 2014 - 2021
     details: |
-      Master degree in Computer Engineering
+        Industrial Chemestry
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Software Developer
+    time: October-November-2020
+    company: Startup Tributi, Colombia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+     The project was part of the Holberton School capstone. It was a project focused on the frontend with React and GoogleCloud. The project consisted of creating a didactic and friendly platformwith a specificuser of the company,where you can modifydata from a NoSQLdatabaseusing firebase.
+Code: https://github.com/caramonp/Nomis-Frontend
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -120,22 +87,19 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
+      level: 50%
 
-    - name: PyTorch
+    - name: Javascript
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML/CSS
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: SQL/NoSQL
+      level: 30%
 
-    - name: C/C++
-      level: 40%
+    - name: C
+      level: 70%
 
 # NO MODIFICAR
 footer: >
