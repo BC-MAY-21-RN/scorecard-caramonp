@@ -37,7 +37,7 @@ sidebar:
       link: # dejar en blanco
 
     - item: Problem Solving
-    link: # dejar en blanco
+      link: # dejar en blanco
 
     - item: Emotional intelligence
       link: # dejar en blanco
@@ -68,8 +68,8 @@ educationcomplete:
         Industrial Chemestry
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-experiences:
-  - role: Software Developer
+experiences: Software Developer
+  - role: Frontend Junior
     time: October-November-2020
     company: Startup Tributi, Colombia
     details: |
