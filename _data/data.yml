@@ -69,7 +69,7 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences: Software Developer
-  - role: Frontend Junior
+    role: Frontend Junior
     time: October-November-2020
     company: Startup Tributi, Colombia
     details: |
