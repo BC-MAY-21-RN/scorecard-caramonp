@@ -68,12 +68,7 @@ educationcomplete:
         Industrial Chemestry
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
-experiences: Software Developer
-  - role: frontend developer
-    time: October-November-2020
-    company: Startup Tributi, Colombia
-    details: | 
-    Lead web application projects.
+
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
