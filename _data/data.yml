@@ -69,7 +69,7 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences: Software Developer
-  - role: Frontend Junior
+  - role: Frontend developer
     time: October-November-2020
     company: Startup Tributi, Colombia
     details: The project was part of the Holberton School capstone. It was a project focused on the frontend with React and GoogleCloud. The project consisted of creating a didactic and friendly platformwith a specificuser of the company,where you can modifydata from a NoSQL database using firebase.
